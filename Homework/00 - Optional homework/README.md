@@ -1,15 +1,16 @@
-# 01 - Intro to Tools
+# 00 - Optional homework
 
-In this lab session we have first explored [Trifacta Wrangler](https://www.trifacta.com/products/wrangler/),
-a desktop tool to easily visualize and transform data. You can [download it for free](https://www.trifacta.com/start-wrangling/).
+For this initial homework we will be training with the [gunshot deaths](http://fivethirtyeight.com/features/gun-deaths/)
+dataset that we explored during the first lab session. The goal of this optional homework is to use an IPython Notebook to reproduce
+the results reported in the visualization at the top of the article (e.g., "nearly two-thirds of gun deaths are suicides").
+It's not necessary to generate also visualizations for the results -- numbers should be more than enough to convince yourself that you 
+were able to reproduce the results of that article.
 
-As test datasets, we first used the list of student exported by IS-Academia as an Excel file
-(which unfortunately I cannot release for privacy reasons). Then we moved to a larger CSV dataset about 
-[gunshot deaths](http://fivethirtyeight.com/features/gun-deaths/) featured by [fivethirtyeight.com](http://fivethirtyeight.com/).
-You can find the raw data in their [GitHub repository](https://github.com/fivethirtyeight/guns-data). For the live demo,
-we used the `full_data.csv` file.
-
-In the second part of the lab we explored the functionalities of the IPython Notebooks. The most user friendly distribution
-of the IPython Notebooks is [Anaconda](https://www.continuum.io/anaconda-overview) (especially for Data Science tasks).
-You can [download it for free](https://www.continuum.io/downloads), and it's available for Windows, Mac and Linux.
-In this repository you can find the notebook we used during the lab (credits to [saloot](https://github.com/saloot)).
+You can use this opportunity first of all to refresh your Python skills. If you are coming from another programming language
+(especially a static PL like Java and C++), I recommend you to take a look at this presentation:
+[Code Like a Pythonista: Idiomatic Python](http://python.net/~goodger/projects/pycon/2007/idiomatic/presentation.html) -- it will teach
+you how to write nice Python code, while at the same time getting you up to speed with the syntax.
+Feel free to explore more advanced libraries (like [Pandas](http://pandas.pydata.org/)) if you really want, but keep in mind that you
+should be able to reproduce the results with the Python Standard Library.
+One advantage of using only the PSL is that once you will get knowledgeable about Pandas you will appreciate how much more concise
+and readable your code will become :)
