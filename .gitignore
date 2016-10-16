@@ -3,6 +3,7 @@ questions.txt
 .ipynb_checkpoints
 .dropbox
 desktop.ini
+.Rhistory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
