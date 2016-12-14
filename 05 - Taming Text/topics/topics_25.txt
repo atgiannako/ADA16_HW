@@ -1,0 +1,50 @@
+Topic 0:
+"republican"  | "obama"  | "democrat"  | "parti"  | "koch"  | "voter"  | "american"  | "polit"  | "group"  | "f"
+Topic 1:
+"state"  | "develop"  | "u"  | "govern"  | "depart"  | "public"  | "global"  | "polici"  | "work"  | "new"
+Topic 2:
+"israel"  | "state"  | "american"  | "obama"  | "isra"  | "said"  | "palestinian"  | "one"  | "presid"  | "time"
+Topic 3:
+"e"  | "state"  | "email"  | "mail"  | "inform"  | "us"  | "germani"  | "use"  | "attach"  | "freedom"
+Topic 4:
+"said"  | "afghanistan"  | "offici"  | "militari"  | "afghan"  | "u"  | "attack"  | "secur"  | "report"  | "pakistan"
+Topic 5:
+"senat"  | "vote"  | "hous"  | "republican"  | "year"  | "bill"  | "obama"  | "one"  | "care"  | "democrat"
+Topic 6:
+"pm"  | "secretari"  | "offic"  | "depart"  | "meet"  | "state"  | "w"  | "room"  | "arriv"  | "rout"
+Topic 7:
+"haiti"  | "haitian"  | "state"  | "u"  | "port"  | "au"  | "princ"  | "depart"  | "case"  | "preval"
+Topic 8:
+"messag"  | "origin"  | "state"  | "call"  | "u"  | "date"  | "case"  | "doc"  | "unclassifi"  | "f"
+Topic 9:
+"us"  | "china"  | "eu"  | "chines"  | "europ"  | "european"  | "gay"  | "state"  | "say"  | "law"
+Topic 10:
+"state"  | "u"  | "nuclear"  | "missil"  | "secur"  | "guard"  | "treati"  | "depart"  | "defens"  | "new"
+Topic 11:
+"judith"  | "mchale"  | "al"  | "parti"  | "wataniya"  | "hotel"  | "evit"  | "jen"  | "sourc"  | "time"
+Topic 12:
+"de"  | "la"  | "en"  | "u"  | "haiti"  | "e"  | "pao"  | "que"  | "el"  | "lo"
+Topic 13:
+"boehner"  | "sourc"  | "el"  | "govern"  | "libyan"  | "nation"  | "libya"  | "al"  | "militia"  | "minist"
+Topic 14:
+"clinton"  | "state"  | "secretari"  | "depart"  | "right"  | "said"  | "presid"  | "u"  | "doc"  | "one"
+Topic 15:
+"turkish"  | "turkey"  | "iraq"  | "patriarch"  | "war"  | "blair"  | "former"  | "militari"  | "inquiri"  | "say"
+Topic 16:
+"minist"  | "call"  | "fm"  | "travel"  | "ambassador"  | "raj"  | "secretari"  | "u"  | "tel"  | "melann"
+Topic 17:
+"state"  | "u"  | "meet"  | "issu"  | "said"  | "secur"  | "depart"  | "secretari"  | "case"  | "agreement"
+Topic 18:
+"minist"  | "ok"  | "palau"  | "sourc"  | "prime"  | "govern"  | "meet"  | "magariaf"  | "cabinet"  | "presid"
+Topic 19:
+"b"  | "b1"  | "af"  | "j"  | "da"  | "classifi"  | "posit"  | "c"  | "do"  | "gi"
+Topic 20:
+"countri"  | "china"  | "state"  | "children"  | "said"  | "govern"  | "un"  | "work"  | "u"  | "unit"
+Topic 21:
+"blair"  | "beck"  | "reg"  | "us"  | "cheri"  | "qatar"  | "mailcontrol"  | "time"  | "jm"  | "westerwel"
+Topic 22:
+"parti"  | "deal"  | "said"  | "brown"  | "uk"  | "power"  | "tori"  | "gordon"  | "dup"  | "ireland"
+Topic 23:
+"thoma"  | "david"  | "court"  | "pd"  | "famili"  | "case"  | "zelaya"  | "brazilian"  | "b"  | "order"
+Topic 24:
+"govern"  | "iran"  | "presid"  | "state"  | "elect"  | "u"  | "leader"  | "nuclear"  | "unit"  | "polit"

@@ -1,0 +1,20 @@
+Topic 0:
+"pm"  | "secretari"  | "offic"  | "depart"  | "state"  | "meet"  | "w"  | "room"  | "arriv"  | "en"
+Topic 1:
+"parti"  | "deal"  | "uk"  | "said"  | "co"  | "brown"  | "power"  | "tori"  | "blair"  | "gordon"
+Topic 2:
+"de"  | "thoma"  | "state"  | "u"  | "hondura"  | "zelaya"  | "f"  | "depart"  | "elect"  | "blog"
+Topic 3:
+"state"  | "govern"  | "develop"  | "u"  | "countri"  | "peopl"  | "work"  | "world"  | "nation"  | "unit"
+Topic 4:
+"state"  | "gov"  | "call"  | "j"  | "secretari"  | "abedin"  | "messag"  | "mill"  | "huma"  | "cheryl"
+Topic 5:
+"state"  | "u"  | "depart"  | "case"  | "unclassifi"  | "f"  | "date"  | "doc"  | "offic"  | "b"
+Topic 6:
+"messag"  | "origin"  | "call"  | "know"  | "work"  | "want"  | "state"  | "see"  | "thank"  | "talk"
+Topic 7:
+"al"  | "govern"  | "sourc"  | "libya"  | "attack"  | "secur"  | "state"  | "minist"  | "forc"  | "libyan"
+Topic 8:
+"israel"  | "isra"  | "palestinian"  | "state"  | "peac"  | "arab"  | "netanyahu"  | "settlement"  | "negoti"  | "minist"
+Topic 9:
+"said"  | "obama"  | "presid"  | "state"  | "one"  | "american"  | "u"  | "say"  | "clinton"  | "republican"

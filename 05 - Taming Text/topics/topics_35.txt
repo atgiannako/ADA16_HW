@@ -1,0 +1,70 @@
+Topic 0:
+"gov"  | "state"  | "j"  | "cheryl"  | "mill"  | "sullivan"  | "jacob"  | "fyi"  | "b5"  | "huma"
+Topic 1:
+"state"  | "depart"  | "unclassifi"  | "doc"  | "case"  | "f"  | "u"  | "date"  | "email"  | "b5"
+Topic 2:
+"hospit"  | "state"  | "africa"  | "surgeri"  | "patient"  | "rwanda"  | "medic"  | "irish"  | "heal"  | "law"
+Topic 3:
+"said"  | "state"  | "guardian"  | "parti"  | "time"  | "deal"  | "govern"  | "make"  | "european"  | "say"
+Topic 4:
+"israel"  | "state"  | "isra"  | "palestinian"  | "american"  | "peac"  | "said"  | "govern"  | "u"  | "arab"
+Topic 5:
+"develop"  | "health"  | "state"  | "world"  | "global"  | "work"  | "peopl"  | "secur"  | "need"  | "food"
+Topic 6:
+"govern"  | "sourc"  | "libya"  | "al"  | "libyan"  | "forc"  | "believ"  | "qaddafi"  | "secur"  | "magariaf"
+Topic 7:
+"guard"  | "nw"  | "dc"  | "washington"  | "contract"  | "c"  | "state"  | "harold"  | "kabul"  | "street"
+Topic 8:
+"berlusconi"  | "minist"  | "itali"  | "prime"  | "countri"  | "italian"  | "elect"  | "franc"  | "mani"  | "nytim"
+Topic 9:
+"haiti"  | "haitian"  | "children"  | "u"  | "work"  | "countri"  | "state"  | "need"  | "case"  | "donor"
+Topic 10:
+"us"  | "million"  | "state"  | "tax"  | "govern"  | "bank"  | "econom"  | "fund"  | "money"  | "flood"
+Topic 11:
+"iran"  | "nuclear"  | "secur"  | "state"  | "new"  | "u"  | "nation"  | "unit"  | "countri"  | "presid"
+Topic 12:
+"deal"  | "agreement"  | "dup"  | "parti"  | "ireland"  | "northern"  | "power"  | "said"  | "robinson"  | "co"
+Topic 13:
+"senat"  | "health"  | "bill"  | "vote"  | "care"  | "reform"  | "hous"  | "parti"  | "industri"  | "white"
+Topic 14:
+"obama"  | "clinton"  | "presid"  | "white"  | "polici"  | "american"  | "say"  | "hous"  | "polit"  | "one"
+Topic 15:
+"b1"  | "b"  | "us"  | "classifi"  | "china"  | "reason"  | "da"  | "class"  | "gi"  | "media"
+Topic 16:
+"state"  | "special"  | "valmoro"  | "lona"  | "time"  | "pm"  | "assist"  | "u"  | "minut"  | "raj"
+Topic 17:
+"u"  | "own"  | "blog"  | "corpor"  | "spend"  | "govern"  | "unit"  | "elect"  | "foreign"  | "citizen"
+Topic 18:
+"bangladesh"  | "reid"  | "north"  | "korea"  | "govern"  | "bank"  | "grameen"  | "aid"  | "peopl"  | "korean"
+Topic 19:
+"said"  | "report"  | "presid"  | "offici"  | "elect"  | "u"  | "releas"  | "say"  | "call"  | "reuter"
+Topic 20:
+"china"  | "chines"  | "mr"  | "us"  | "internet"  | "ventur"  | "compani"  | "limit"  | "lib"  | "ft"
+Topic 21:
+"messag"  | "origin"  | "call"  | "know"  | "want"  | "w"  | "tomorrow"  | "work"  | "time"  | "see"
+Topic 22:
+"embassi"  | "thoma"  | "report"  | "e"  | "u"  | "sbu"  | "consul"  | "inform"  | "famili"  | "assist"
+Topic 23:
+"pm"  | "offic"  | "secretari"  | "depart"  | "state"  | "w"  | "room"  | "meet"  | "en"  | "arriv"
+Topic 24:
+"women"  | "secretari"  | "work"  | "right"  | "clinton"  | "one"  | "us"  | "human"  | "state"  | "peopl"
+Topic 25:
+"de"  | "germani"  | "berlin"  | "la"  | "german"  | "palau"  | "freedom"  | "e"  | "en"  | "le"
+Topic 26:
+"treati"  | "question"  | "russian"  | "russia"  | "min"  | "state"  | "defens"  | "colombian"  | "present"  | "u"
+Topic 27:
+"percent"  | "branch"  | "wjc"  | "approv"  | "clinton"  | "said"  | "gore"  | "presid"  | "poll"  | "disapprov"
+Topic 28:
+"el"  | "keib"  | "firm"  | "ntc"  | "al"  | "tnc"  | "belhaj"  | "sourc"  | "oil"  | "jalil"
+Topic 29:
+"state"  | "public"  | "depart"  | "foreign"  | "govern"  | "u"  | "polici"  | "develop"  | "diplomaci"  | "program"
+Topic 30:
+"koch"  | "compani"  | "david"  | "charl"  | "center"  | "book"  | "church"  | "group"  | "million"  | "school"
+Topic 31:
+"republican"  | "senat"  | "said"  | "democrat"  | "vote"  | "hous"  | "obama"  | "u"  | "one"  | "american"
+Topic 32:
+"blair"  | "iraq"  | "war"  | "toni"  | "former"  | "militari"  | "gener"  | "afghanistan"  | "say"  | "troop"
+Topic 33:
+"elect"  | "parti"  | "tori"  | "david"  | "labour"  | "minist"  | "conserv"  | "time"  | "vote"  | "poll"
+Topic 34:
+"messag"  | "origin"  | "call"  | "ok"  | "know"  | "email"  | "u"  | "thx"  | "turkish"  | "turkey"

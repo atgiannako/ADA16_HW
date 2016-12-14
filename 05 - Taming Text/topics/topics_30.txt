@@ -1,0 +1,60 @@
+Topic 0:
+"haiti"  | "develop"  | "need"  | "haitian"  | "health"  | "assist"  | "state"  | "work"  | "agenc"  | "plan"
+Topic 1:
+"de"  | "hospit"  | "la"  | "state"  | "guard"  | "contract"  | "embassi"  | "unfavor"  | "el"  | "que"
+Topic 2:
+"presid"  | "elect"  | "govern"  | "u"  | "polit"  | "state"  | "support"  | "hondura"  | "said"  | "colombia"
+Topic 3:
+"parti"  | "deal"  | "uk"  | "brown"  | "tori"  | "co"  | "gordon"  | "cameron"  | "said"  | "guardian"
+Topic 4:
+"messag"  | "origin"  | "call"  | "tomorrow"  | "talk"  | "want"  | "know"  | "u"  | "time"  | "w"
+Topic 5:
+"russia"  | "treati"  | "russian"  | "missil"  | "germani"  | "nuclear"  | "defens"  | "europ"  | "new"  | "european"
+Topic 6:
+"israel"  | "palestinian"  | "isra"  | "arab"  | "peac"  | "state"  | "jewish"  | "settlement"  | "gaza"  | "muslim"
+Topic 7:
+"pan"  | "e"  | "corpor"  | "foundat"  | "fisa"  | "chuckl"  | "presid"  | "westerwel"  | "spend"  | "director"
+Topic 8:
+"email"  | "messag"  | "b1"  | "b"  | "origin"  | "e"  | "pleas"  | "confidenti"  | "mail"  | "copi"
+Topic 9:
+"public"  | "econom"  | "polici"  | "govern"  | "us"  | "china"  | "new"  | "diplomaci"  | "countri"  | "economi"
+Topic 10:
+"state"  | "depart"  | "u"  | "case"  | "f"  | "unclassifi"  | "date"  | "doc"  | "b5"  | "offic"
+Topic 11:
+"pakistan"  | "pakistani"  | "u"  | "bangladesh"  | "state"  | "depart"  | "india"  | "min"  | "date"  | "unclassifi"
+Topic 12:
+"blair"  | "iraq"  | "foreign"  | "say"  | "former"  | "ashton"  | "militari"  | "uk"  | "petraeu"  | "war"
+Topic 13:
+"state"  | "j"  | "report"  | "secretari"  | "thoma"  | "b5"  | "david"  | "note"  | "depart"  | "cheryl"
+Topic 14:
+"iran"  | "report"  | "u"  | "media"  | "state"  | "us"  | "iranian"  | "nuclear"  | "doc"  | "minist"
+Topic 15:
+"obama"  | "presid"  | "said"  | "say"  | "state"  | "polit"  | "clinton"  | "democrat"  | "republican"  | "hous"
+Topic 16:
+"power"  | "ireland"  | "parti"  | "robinson"  | "dup"  | "unionist"  | "sinn"  | "fein"  | "peopl"  | "year"
+Topic 17:
+"govern"  | "sourc"  | "al"  | "minist"  | "libyan"  | "el"  | "nation"  | "new"  | "libya"  | "forc"
+Topic 18:
+"death"  | "monterrey"  | "al"  | "consul"  | "bin"  | "tobacco"  | "state"  | "also"  | "offici"  | "u"
+Topic 19:
+"pm"  | "secretari"  | "offic"  | "depart"  | "meet"  | "w"  | "room"  | "state"  | "arriv"  | "en"
+Topic 20:
+"state"  | "world"  | "attack"  | "american"  | "diplomat"  | "militari"  | "u"  | "unit"  | "war"  | "foreign"
+Topic 21:
+"us"  | "china"  | "chines"  | "state"  | "blog"  | "compani"  | "b"  | "amazon"  | "g"  | "imag"
+Topic 22:
+"state"  | "u"  | "secur"  | "one"  | "govern"  | "said"  | "peopl"  | "us"  | "afghanistan"  | "clinton"
+Topic 23:
+"senat"  | "republican"  | "vote"  | "bill"  | "koch"  | "boehner"  | "hous"  | "health"  | "democrat"  | "committe"
+Topic 24:
+"secur"  | "food"  | "meet"  | "us"  | "particip"  | "articl"  | "qatar"  | "time"  | "cheri"  | "wp"
+Topic 25:
+"messag"  | "origin"  | "gov"  | "state"  | "call"  | "ok"  | "email"  | "pl"  | "cheryl"  | "thank"
+Topic 26:
+"work"  | "thank"  | "know"  | "messag"  | "want"  | "think"  | "see"  | "origin"  | "good"  | "time"
+Topic 27:
+"women"  | "human"  | "right"  | "said"  | "clinton"  | "work"  | "state"  | "issu"  | "gender"  | "children"
+Topic 28:
+"state"  | "develop"  | "countri"  | "u"  | "secur"  | "global"  | "nation"  | "unit"  | "govern"  | "new"
+Topic 29:
+"said"  | "say"  | "north"  | "korea"  | "one"  | "told"  | "report"  | "branch"  | "wjc"  | "year"

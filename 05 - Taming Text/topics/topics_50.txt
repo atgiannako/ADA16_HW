@@ -1,0 +1,100 @@
+Topic 0:
+"sudan"  | "russian"  | "poland"  | "nato"  | "iran"  | "elect"  | "polish"  | "travel"  | "missil"  | "russia"
+Topic 1:
+"thank"  | "pleas"  | "state"  | "email"  | "dear"  | "gov"  | "washington"  | "dc"  | "nw"  | "cheryl"
+Topic 2:
+"deal"  | "dup"  | "agreement"  | "ireland"  | "parti"  | "northern"  | "power"  | "said"  | "robinson"  | "unionist"
+Topic 3:
+"israel"  | "isra"  | "palestinian"  | "peac"  | "arab"  | "state"  | "netanyahu"  | "settlement"  | "jewish"  | "negoti"
+Topic 4:
+"senat"  | "vote"  | "bill"  | "reid"  | "committe"  | "hous"  | "health"  | "care"  | "said"  | "reform"
+Topic 5:
+"boehner"  | "email"  | "e"  | "pleas"  | "mail"  | "intend"  | "messag"  | "may"  | "inform"  | "copi"
+Topic 6:
+"right"  | "govern"  | "muslim"  | "islam"  | "freedom"  | "new"  | "wikileak"  | "polit"  | "human"  | "world"
+Topic 7:
+"messag"  | "origin"  | "call"  | "know"  | "want"  | "work"  | "talk"  | "tomorrow"  | "w"  | "let"
+Topic 8:
+"toni"  | "blair"  | "british"  | "us"  | "obama"  | "london"  | "presid"  | "britain"  | "new"  | "eu"
+Topic 9:
+"militari"  | "forc"  | "u"  | "secur"  | "diplomaci"  | "war"  | "iraq"  | "state"  | "diplomat"  | "guard"
+Topic 10:
+"haiti"  | "haitian"  | "preval"  | "princ"  | "reconstruct"  | "relief"  | "de"  | "beller"  | "jan"  | "paul"
+Topic 11:
+"pakistan"  | "said"  | "state"  | "u"  | "offici"  | "clinton"  | "mr"  | "north"  | "pakistani"  | "korea"
+Topic 12:
+"latrin"  | "presid"  | "sejm"  | "julissa"  | "ak"  | "anita"  | "pani"  | "cuba"  | "e"  | "pml"
+Topic 13:
+"greek"  | "g"  | "p"  | "greec"  | "euro"  | "goh"  | "debt"  | "zone"  | "tion"  | "festiv"
+Topic 14:
+"min"  | "team"  | "state"  | "question"  | "present"  | "minut"  | "menendez"  | "jack"  | "group"  | "moder"
+Topic 15:
+"tori"  | "parti"  | "cameron"  | "brown"  | "uk"  | "guardian"  | "labour"  | "gordon"  | "co"  | "deal"
+Topic 16:
+"africa"  | "colombia"  | "said"  | "clinton"  | "report"  | "u"  | "south"  | "visit"  | "state"  | "law"
+Topic 17:
+"germani"  | "europ"  | "german"  | "berlin"  | "freedom"  | "gate"  | "world"  | "histori"  | "symbol"  | "european"
+Topic 18:
+"govern"  | "state"  | "peopl"  | "u"  | "american"  | "one"  | "countri"  | "presid"  | "unit"  | "nation"
+Topic 19:
+"said"  | "clinton"  | "branch"  | "thoma"  | "wjc"  | "told"  | "gore"  | "person"  | "presid"  | "say"
+Topic 20:
+"obama"  | "republican"  | "presid"  | "democrat"  | "hous"  | "white"  | "parti"  | "campaign"  | "elect"  | "said"
+Topic 21:
+"messag"  | "origin"  | "b1"  | "b"  | "see"  | "meet"  | "know"  | "work"  | "time"  | "go"
+Topic 22:
+"minist"  | "bangladesh"  | "grameen"  | "presid"  | "prime"  | "colombian"  | "bank"  | "urib"  | "said"  | "fisa"
+Topic 23:
+"la"  | "berlusconi"  | "de"  | "court"  | "lo"  | "nationalist"  | "el"  | "tan"  | "que"  | "wataniya"
+Topic 24:
+"countri"  | "china"  | "econom"  | "time"  | "one"  | "state"  | "us"  | "year"  | "chang"  | "make"
+Topic 25:
+"dem"  | "u"  | "lib"  | "spend"  | "own"  | "blog"  | "chavez"  | "corpor"  | "good"  | "2c"
+Topic 26:
+"pm"  | "offic"  | "secretari"  | "depart"  | "w"  | "room"  | "meet"  | "state"  | "arriv"  | "en"
+Topic 27:
+"ok"  | "media"  | "bbc"  | "us"  | "u"  | "unicef"  | "januari"  | "news"  | "articl"  | "murdoch"
+Topic 28:
+"turkish"  | "turkey"  | "patriarch"  | "orthodox"  | "ecumen"  | "org"  | "religi"  | "christian"  | "mashaban"  | "woodward"
+Topic 29:
+"elect"  | "mubarak"  | "candid"  | "presid"  | "hugo"  | "accord"  | "hondura"  | "chuckl"  | "ecuador"  | "elector"
+Topic 30:
+"iran"  | "nuclear"  | "presid"  | "russia"  | "treati"  | "us"  | "new"  | "state"  | "sanction"  | "resolut"
+Topic 31:
+"state"  | "develop"  | "public"  | "depart"  | "foreign"  | "assist"  | "u"  | "program"  | "agenc"  | "polici"
+Topic 32:
+"women"  | "develop"  | "work"  | "health"  | "year"  | "children"  | "help"  | "peopl"  | "need"  | "right"
+Topic 33:
+"posit"  | "af"  | "issu"  | "state"  | "offic"  | "work"  | "secur"  | "engag"  | "discuss"  | "affair"
+Topic 34:
+"david"  | "famili"  | "case"  | "michael"  | "j"  | "lissa"  | "court"  | "state"  | "depart"  | "unclassifi"
+Topic 35:
+"state"  | "de"  | "x"  | "en"  | "e"  | "gov"  | "favor"  | "unfavor"  | "vol"  | "mail"
+Topic 36:
+"sourc"  | "libyan"  | "al"  | "libya"  | "govern"  | "el"  | "minist"  | "qaddafi"  | "magariaf"  | "individu"
+Topic 37:
+"koch"  | "compani"  | "mr"  | "group"  | "american"  | "student"  | "said"  | "law"  | "year"  | "school"
+Topic 38:
+"secretari"  | "clinton"  | "question"  | "want"  | "meet"  | "think"  | "know"  | "hospit"  | "go"  | "presid"
+Topic 39:
+"pao"  | "joe"  | "drive"  | "time"  | "u"  | "michael"  | "affair"  | "india"  | "minut"  | "mellott"
+Topic 40:
+"imag"  | "amazon"  | "book"  | "g"  | "ref"  | "b"  | "kid"  | "dutch"  | "sport"  | "ie"
+Topic 41:
+"afghanistan"  | "afghan"  | "taliban"  | "karzai"  | "mcchrystal"  | "said"  | "troop"  | "kabul"  | "militari"  | "us"
+Topic 42:
+"said"  | "attack"  | "offici"  | "report"  | "kill"  | "secur"  | "u"  | "state"  | "say"  | "polic"
+Topic 43:
+"us"  | "devolv"  | "ashton"  | "expo"  | "state"  | "shanghai"  | "tax"  | "santiago"  | "offici"  | "pavilion"
+Topic 44:
+"clinton"  | "state"  | "china"  | "mr"  | "foreign"  | "us"  | "secretari"  | "polici"  | "new"  | "depart"
+Topic 45:
+"pd"  | "monterrey"  | "ms"  | "et"  | "daughter"  | "le"  | "de"  | "exit"  | "one"  | "ret"
+Topic 46:
+"state"  | "gov"  | "call"  | "secretari"  | "cheryl"  | "j"  | "assist"  | "messag"  | "fyi"  | "origin"
+Topic 47:
+"former"  | "lobbyist"  | "na"  | "say"  | "uk"  | "inquiri"  | "pan"  | "iraq"  | "blair"  | "chilcot"
+Topic 48:
+"depart"  | "doc"  | "unclassifi"  | "date"  | "state"  | "case"  | "f"  | "u"  | "b5"  | "draft"
+Topic 49:
+"embassi"  | "sbu"  | "u"  | "report"  | "malaysia"  | "minist"  | "asia"  | "reuter"  | "center"  | "mchale"

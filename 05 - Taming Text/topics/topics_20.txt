@@ -1,0 +1,40 @@
+Topic 0:
+"obama"  | "presid"  | "clinton"  | "state"  | "republican"  | "mr"  | "one"  | "american"  | "say"  | "said"
+Topic 1:
+"state"  | "u"  | "develop"  | "depart"  | "public"  | "countri"  | "program"  | "pakistan"  | "diplomaci"  | "polici"
+Topic 2:
+"parti"  | "deal"  | "said"  | "uk"  | "brown"  | "tori"  | "agreement"  | "power"  | "co"  | "cameron"
+Topic 3:
+"women"  | "state"  | "secretari"  | "work"  | "report"  | "said"  | "thoma"  | "korea"  | "us"  | "north"
+Topic 4:
+"govern"  | "polit"  | "elect"  | "koch"  | "state"  | "presid"  | "saudi"  | "compani"  | "u"  | "unit"
+Topic 5:
+"china"  | "g"  | "chines"  | "p"  | "ok"  | "book"  | "e"  | "amazon"  | "u"  | "imag"
+Topic 6:
+"messag"  | "origin"  | "call"  | "talk"  | "know"  | "meet"  | "want"  | "thank"  | "today"  | "work"
+Topic 7:
+"sourc"  | "govern"  | "al"  | "libya"  | "libyan"  | "nation"  | "el"  | "secur"  | "state"  | "forc"
+Topic 8:
+"pm"  | "secretari"  | "offic"  | "depart"  | "state"  | "meet"  | "w"  | "room"  | "arriv"  | "rout"
+Topic 9:
+"senat"  | "bill"  | "health"  | "said"  | "vote"  | "hous"  | "year"  | "care"  | "one"  | "democrat"
+Topic 10:
+"state"  | "messag"  | "u"  | "unclassifi"  | "date"  | "depart"  | "case"  | "doc"  | "f"  | "origin"
+Topic 11:
+"said"  | "offici"  | "attack"  | "militari"  | "report"  | "say"  | "u"  | "kill"  | "afghanistan"  | "iraq"
+Topic 12:
+"haiti"  | "said"  | "preval"  | "bloomberg"  | "grameen"  | "de"  | "state"  | "govern"  | "le"  | "au"
+Topic 13:
+"fein"  | "work"  | "issu"  | "uup"  | "foundat"  | "david"  | "e"  | "famili"  | "plan"  | "polic"
+Topic 14:
+"de"  | "la"  | "el"  | "na"  | "unfavor"  | "lo"  | "vol"  | "en"  | "que"  | "juarez"
+Topic 15:
+"b1"  | "b"  | "turkey"  | "turkish"  | "do"  | "classifi"  | "da"  | "gi"  | "class"  | "patriarch"
+Topic 16:
+"messag"  | "origin"  | "call"  | "work"  | "see"  | "want"  | "know"  | "time"  | "state"  | "w"
+Topic 17:
+"state"  | "israel"  | "govern"  | "peopl"  | "american"  | "isra"  | "unit"  | "u"  | "us"  | "world"
+Topic 18:
+"us"  | "e"  | "expo"  | "shanghai"  | "pavilion"  | "presid"  | "minist"  | "germani"  | "europ"  | "elect"
+Topic 19:
+"af"  | "africa"  | "state"  | "pdpa"  | "min"  | "team"  | "hospit"  | "depart"  | "work"  | "gay"

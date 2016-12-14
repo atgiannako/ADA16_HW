@@ -1,0 +1,10 @@
+Topic 0:
+"state"  | "case"  | "depart"  | "u"  | "f"  | "unclassifi"  | "date"  | "doc"  | "said"  | "parti"
+Topic 1:
+"messag"  | "origin"  | "call"  | "state"  | "know"  | "work"  | "want"  | "thank"  | "u"  | "see"
+Topic 2:
+"state"  | "depart"  | "pm"  | "secretari"  | "offic"  | "u"  | "meet"  | "senat"  | "f"  | "date"
+Topic 3:
+"govern"  | "state"  | "secur"  | "said"  | "u"  | "minist"  | "forc"  | "israel"  | "attack"  | "al"
+Topic 4:
+"state"  | "obama"  | "u"  | "said"  | "presid"  | "one"  | "year"  | "govern"  | "american"  | "new"

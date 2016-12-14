@@ -1,0 +1,30 @@
+Topic 0:
+"us"  | "blair"  | "messag"  | "email"  | "pleas"  | "may"  | "state"  | "toni"  | "use"  | "e"
+Topic 1:
+"pm"  | "secretari"  | "depart"  | "offic"  | "state"  | "meet"  | "w"  | "room"  | "arriv"  | "en"
+Topic 2:
+"state"  | "u"  | "depart"  | "case"  | "f"  | "unclassifi"  | "date"  | "doc"  | "b5"  | "de"
+Topic 3:
+"state"  | "said"  | "peopl"  | "attack"  | "american"  | "right"  | "human"  | "govern"  | "u"  | "one"
+Topic 4:
+"obama"  | "mr"  | "afghanistan"  | "u"  | "state"  | "one"  | "us"  | "militari"  | "polici"  | "war"
+Topic 5:
+"state"  | "govern"  | "secur"  | "u"  | "develop"  | "unit"  | "effort"  | "nation"  | "intern"  | "work"
+Topic 6:
+"haiti"  | "haitian"  | "presid"  | "affair"  | "e"  | "cuban"  | "posit"  | "fill"  | "lp"  | "de"
+Topic 7:
+"report"  | "embassi"  | "af"  | "media"  | "u"  | "offic"  | "turkish"  | "pd"  | "e"  | "center"
+Topic 8:
+"messag"  | "origin"  | "call"  | "state"  | "know"  | "work"  | "want"  | "see"  | "thank"  | "talk"
+Topic 9:
+"deal"  | "parti"  | "said"  | "agreement"  | "power"  | "dup"  | "ireland"  | "northern"  | "co"  | "uk"
+Topic 10:
+"year"  | "state"  | "women"  | "work"  | "countri"  | "case"  | "peopl"  | "one"  | "china"  | "health"
+Topic 11:
+"israel"  | "isra"  | "palestinian"  | "state"  | "arab"  | "peac"  | "minist"  | "netanyahu"  | "govern"  | "sourc"
+Topic 12:
+"clinton"  | "right"  | "presid"  | "secretari"  | "obama"  | "state"  | "said"  | "parti"  | "leader"  | "govern"
+Topic 13:
+"said"  | "clinton"  | "north"  | "korea"  | "state"  | "branch"  | "presid"  | "year"  | "case"  | "germani"
+Topic 14:
+"republican"  | "senat"  | "obama"  | "presid"  | "democrat"  | "said"  | "vote"  | "hous"  | "u"  | "state"
